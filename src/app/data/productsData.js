@@ -826,12 +826,9 @@ export const ProductData = [
         category: "electronics",
         img: imge5,
         hover_img: imge6,
-        title: "Powerbeats Pro Wireless Earbuds",
+        title: "Men's Suits",
         price: 344,
-        description: `Up to 9 hours of listening time (more than 24 hours with charge case)
-        Adjustable, secure-fit ear hooks for lightweight comfort, stability
-        Reinforced design for sweat and water resistance during tough workouts and running
-        Protect your Beats with AppleCare+ - Add AppleCare+ to your order and receive accidental damage`,
+        description: `Elevate your formal wardrobe with our impeccable collection of men's suits, designed to offer a perfect blend of style, comfort, and sophistication. Whether you're attending a business meeting, a wedding, or any formal event, our suits are tailored to make you look and feel your best.`,
         rating: {
             rate: 2.9,
             count: 610
@@ -860,12 +857,9 @@ export const ProductData = [
         category: "electronics",
         img: imge6,
         hover_img: imge5,
-        title: "New Apple AirPods Max",
+        title: "Men's Suits",
         price: 944,
-        description: `Apple-designed dynamic driver provides high-fidelity audio﻿
-        Active Noise Cancellation blocks outside noise, so you can immerse yourself in music﻿
-        Transparency mode for hearing and interacting with the world around you﻿
-        Spatial audio with dynamic head tracking provides theater-like sound that surrounds you﻿`,
+        description: `Elevate your formal wardrobe with our impeccable collection of men's suits, designed to offer a perfect blend of style, comfort, and sophistication. Whether you're attending a business meeting, a wedding, or any formal event, our suits are tailored to make you look and feel your best.`,
         rating: {
             rate: 4.9,
             count: 1110
@@ -894,11 +888,9 @@ export const ProductData = [
         category: "electronics",
         img: imge7,
         hover_img: imge4,
-        title: "Fire HD 10 Tablet – White",
+        title: "Men's Suits",
         price: 144,
-        description: `10.1" 1080p full HD display; 32 or 64 GB of internal storage (add up to 512 GB with microSD)
-        Now 30% faster thanks to the new 2.0 GHz octa-core processor and 2 GB of RAM
-        Longer battery life—Up to 12 hours of reading, browsing the web, watching video, and listening to music`,
+        description: `Elevate your formal wardrobe with our impeccable collection of men's suits, designed to offer a perfect blend of style, comfort, and sophistication. Whether you're attending a business meeting, a wedding, or any formal event, our suits are tailored to make you look and feel your best.`,
         rating: {
             rate: 1.9,
             count: 10
@@ -927,12 +919,9 @@ export const ProductData = [
         category: "electronics",
         img: imge8,
         hover_img: imge3,
-        title: "New Apple AirPods Max",
+        title: "Men's Suits",
         price: 544,
-        description: `Apple-designed dynamic driver provides high-fidelity audio﻿
-        Active Noise Cancellation blocks outside noise, so you can immerse yourself in music﻿
-        Transparency mode for hearing and interacting with the world around you﻿
-        Spatial audio with dynamic head tracking provides theater-like sound that surrounds you﻿`,
+        description: `Elevate your formal wardrobe with our impeccable collection of men's suits, designed to offer a perfect blend of style, comfort, and sophistication. Whether you're attending a business meeting, a wedding, or any formal event, our suits are tailored to make you look and feel your best.`,
         rating: {
             rate: 3.9,
             count: 2510

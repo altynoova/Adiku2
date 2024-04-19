@@ -18,10 +18,10 @@ const TopPRoduct = () => {
                         <div className="col-lg-6">
                             <div className="tabs_right_button">
                                 <ul className="nav nav-tabs">
-                                    <li><a data-toggle="tab" href="#video" className="active">Vaideo & Audio</a></li>
-                                    <li><a data-toggle="tab" href="#audio">Audio & Home</a></li>
-                                    <li><a data-toggle="tab" href="#camera">Camera & Photo</a></li>
-                                    <li><a data-toggle="tab" href="#home">Home & Garden</a></li>
+                                    <li><a data-toggle="tab" href="#video" className="active">Analytics & Trends</a></li>
+                                    <li><a data-toggle="tab" href="#audio">Recommendations</a></li>
+                                    <li><a data-toggle="tab" href="#camera">Sizing & Fit</a></li>
+                                    <li><a data-toggle="tab" href="#home">Customer Reviews</a></li>
                                 </ul>
                             </div>
                         </div>

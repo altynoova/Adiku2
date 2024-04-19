@@ -5,16 +5,16 @@ import img from '../../../assets/img/electronics/common/promotion.png'
 // Offer Data
 const OfferData = [
     {
-        icon: "fa  fa-thermometer-full",
-        para: "Bluetooth Enabled device"
+        icon: "fa fa-free-code-camp ",
+        para: "Latest Men's Fashion Trends"
     },
     {
-        icon: "fa fa-money",
-        para: "Wireless Connections"
+        icon: "fa fa-percent",
+        para: "Seasonal Discounts"
     },
     {
-        icon: "fa fa-globe",
-        para: "Rechargeable Battery"
+        icon: "fa fa-check-square",
+        para: "Quality Guaranteed"
     }
 ]
 
@@ -26,9 +26,8 @@ const Offer = () => {
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="elec_promo_text">
-                                <h2>DOLBY ATMOS <br /> SOUND FEATURE</h2>
-                                <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+                                <h2>Discover the Latest in Men's Clothes <br /> Adiku Group</h2>
+                                <p>Upgrade your style with our latest collection. Find the perfect fit and embrace the trends of the season.</p>
                                 <div className="elec_promo_icon">
                                     {OfferData.map((data, index) => (
                                         <div className="icon_promo_item" key={index}>
