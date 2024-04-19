@@ -115,6 +115,8 @@ glad to cooperate and create beautiful and stylish images with you.
                                             <a href="#!"><i className="fa fa-facebook"></i></a>
                                         </li>
                                     </ul>
+                                    <span>+996707163050 </span>
+                                    <span>+996771163050 </span>
                                 </div>
                             </div>
                         </div>
@@ -185,7 +187,6 @@ glad to cooperate and create beautiful and stylish images with you.
             {
                 cookie ? <Cookie accept={acceptCookie} cancel={cancelCookie} /> : null
             }
-            <NewsletterModal show={promoCenter} stop={stopPromoModal} start={startPromoModal} />
         </>
     )
 }

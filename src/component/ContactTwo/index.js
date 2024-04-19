@@ -57,7 +57,13 @@ const ContactTwoArea = () => {
                                     <li className="address_location">
                                         <div className="contact_widget">
                                             <i className="fa fa-phone"></i>
-                                            <Link to="/">+996707 163 050</Link>
+                                            <Link to="/">+996 707 163 050</Link>
+                                        </div>
+                                    </li>
+                                    <li className="address_location">
+                                        <div className="contact_widget">
+                                            <i className="fa fa-phone"></i>
+                                            <Link to="/">+996 771 163 050</Link>
                                         </div>
                                     </li>
                                     <li className="address_location">
